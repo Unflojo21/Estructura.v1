@@ -1,3 +1,6 @@
+Vista en codigo
+
+
 Para el taller1 se mostraran las Linenas utilizadas para poblar la base de datos, pero antes de eso se mostrara el como se compila utilizando msys2.
 g++ Main.cpp -o Main
 comando utilizado para la compilacion y la creacion de un ejectable que sera el utilizado para ver el taller
