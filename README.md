@@ -8,4 +8,4 @@ Para su debida ejecucion se necesita el siguiente comando ./App.exe
 
 
 
-    Se que meresco el 1 con suerte, pero un 2 para poder darlo todo en el taller 3 y tener esperanza se que no lo meresco pero porfavor
+    espero que sea suficiente para una tarde de trabajo
